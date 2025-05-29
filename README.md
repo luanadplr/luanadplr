@@ -1,6 +1,6 @@
 ## Olá 👋
-* 👩‍💻 Desenvolvedora front-end júnior no ínicio da jornada.
-*  🎨 Designer gráfico formada.
+* 👩‍💻 Desenvolvedora front-end júnior no início da jornada.
+*  🎨 Designer gráfico por formação.
 
 <!--
 **luanadplr/luanadplr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
