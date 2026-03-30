@@ -1,5 +1,5 @@
 ## Olá 👋
-* 👩‍💻 Desenvolvedora Full Stack Júnior com foco em JS.
+* 👩‍💻 Desenvolvedora Full Stack Júnior com foco em JavaScript.
 * 🎨 Designer gráfico por formação.
 
 ##
